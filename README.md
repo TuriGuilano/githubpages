@@ -16,7 +16,7 @@ You can navigate to the specified url (https://githubusernamer.github.io/reposit
 
 Now that you've manages to publish your first githubpages website, you can reference the url inside of your readme, this way fellow coders can learn from your experience 🤖
 
-[My GithubPages Link] (https://turiguilano.github.io/githubpages/)
+My GithubPages Link (https://turiguilano.github.io/githubpages/)
 
 #Failed?
-[Visit this this] (https://pages.github.com/)
+Visit this this (https://pages.github.com/)
